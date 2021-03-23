@@ -32,7 +32,12 @@
 /frontend/.env.*.local
 /frontend/npm-debug.log*
 /frontend/dist
+
+# coverage
+/frontend/.nyc_output
 /frontend/coverage
+/frontend/coverage-e2e
+/frontend/coverage-unit
 
 # npm/yarn
 /frontend/npm-debug.log
